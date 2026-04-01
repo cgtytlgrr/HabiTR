@@ -1,0 +1,8906 @@
+{
+  "spor": [
+    {
+      "weekNum": 1,
+      "dateRange": "06-12 Nisan",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 5-5-5"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 25sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 4-4-4"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 5-5-5"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 25sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 4-4-4"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 5-5-5"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 25sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 4-4-4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 2,
+      "dateRange": "13-19 Nisan",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 6-6-6"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 26sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 5-5-5"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 6-6-6"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 26sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 5-5-5"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 6-6-6"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 26sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 5-5-5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 3,
+      "dateRange": "20-26 Nisan",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 7-7-7"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 27sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 6-6-6"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 7-7-7"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 27sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 6-6-6"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 7-7-7"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 27sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 6-6-6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 4,
+      "dateRange": "27 Nisan - 3 Mayıs",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 8-8-8"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 28sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 7-7-7"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 8-8-8"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 28sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 7-7-7"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 8-8-8"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 28sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 7-7-7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 5,
+      "dateRange": "04-10 Mayıs",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 9-9-9"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 29sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 8-8-8"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 9-9-9"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 29sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 8-8-8"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 9-9-9"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 29sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 8-8-8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 6,
+      "dateRange": "11-17 Mayıs",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 10-10-10"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 30sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 9-9-9"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 10-10-10"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 30sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 9-9-9"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 10-10-10"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 30sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 9-9-9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 7,
+      "dateRange": "18-24 Mayıs",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 10-10-10"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 30sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 9-9-9"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 10-10-10"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 30sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 9-9-9"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 10-10-10"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 30sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 9-9-9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 8,
+      "dateRange": "-31 Mayıs",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 10-10-10"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 30sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 9-9-9"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 10-10-10"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 30sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 9-9-9"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 10-10-10"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 30sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 9-9-9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 9,
+      "dateRange": "01-07 Haziran",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 10-10-10"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 30sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 9-9-9"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 10-10-10"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 30sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 9-9-9"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 10-10-10"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 30sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 9-9-9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 10,
+      "dateRange": "08-14 Haziran",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "bilek",
+              "label": "Bilek: 8-8-8"
+            },
+            {
+              "id": "halter",
+              "label": "Halter: 5-5-5"
+            },
+            {
+              "id": "cember",
+              "label": "Çember: 15-15-15"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 11-11-11"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 31sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 10-10-10"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "bilek",
+              "label": "Bilek: 8-8-8"
+            },
+            {
+              "id": "halter",
+              "label": "Halter: 5-5-5"
+            },
+            {
+              "id": "cember",
+              "label": "Çember: 15-15-15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 11,
+      "dateRange": "15-21 Haziran",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 11-11-11"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 31sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 10-10-10"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "bilek",
+              "label": "Bilek: 9-9-9"
+            },
+            {
+              "id": "halter",
+              "label": "Halter: 6-6-6"
+            },
+            {
+              "id": "cember",
+              "label": "Çember: 16-16-16"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 11-11-11"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 31sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 10-10-10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 12,
+      "dateRange": "22-28 Haziran",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "bilek",
+              "label": "Bilek: 9-9-9"
+            },
+            {
+              "id": "halter",
+              "label": "Halter: 7-7-7"
+            },
+            {
+              "id": "cember",
+              "label": "Çember: 17-17-17"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 11-11-11"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 32sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 10-10-10"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "bilek",
+              "label": "Bilek: 9-9-9"
+            },
+            {
+              "id": "halter",
+              "label": "Halter: 7-7-7"
+            },
+            {
+              "id": "cember",
+              "label": "Çember: 18-18-18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 13,
+      "dateRange": "29  Haziran - 05 - Temmuz",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 11-11-11"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 33sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 10-10-10"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "bilek",
+              "label": "Bilek: 10-10-10"
+            },
+            {
+              "id": "halter",
+              "label": "Halter: 7-7-7"
+            },
+            {
+              "id": "cember",
+              "label": "Çember: 19-19-19"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 11-11-11"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 34sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 10-10-10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 14,
+      "dateRange": "06-12 Temmuz",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "bilek",
+              "label": "Bilek: 10-10-10"
+            },
+            {
+              "id": "halter",
+              "label": "Halter: 8-8-8"
+            },
+            {
+              "id": "cember",
+              "label": "Çember: 20-20-20"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 11-11-11"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 35sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 10-10-10"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "bilek",
+              "label": "Bilek: 10-10-10"
+            },
+            {
+              "id": "halter",
+              "label": "Halter: 8-8-8"
+            },
+            {
+              "id": "cember",
+              "label": "Çember: 21-21-21"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 15,
+      "dateRange": "13-19 Temmuz",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 11-11-11"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 36sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 10-10-10"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "bilek",
+              "label": "Bilek: 10-10-10"
+            },
+            {
+              "id": "halter",
+              "label": "Halter: 8-8-8"
+            },
+            {
+              "id": "cember",
+              "label": "Çember: 22-22-22"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 11-11-11"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 37sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 10-10-10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 16,
+      "dateRange": "20-26 Temmuz",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "bilek",
+              "label": "Bilek: 11-11-11"
+            },
+            {
+              "id": "halter",
+              "label": "Halter: 9-9-9"
+            },
+            {
+              "id": "cember",
+              "label": "Çember: 23-23-23"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 12-12-12"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 38sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 11-11-11"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "bilek",
+              "label": "Bilek: 11-11-11"
+            },
+            {
+              "id": "halter",
+              "label": "Halter: 9-9-9"
+            },
+            {
+              "id": "cember",
+              "label": "Çember: 24-24-24"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 17,
+      "dateRange": "27 Temmuz -  2 Ağustos",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 12-12-12"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 39sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 11-11-11"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "bilek",
+              "label": "Bilek: 11-11-11"
+            },
+            {
+              "id": "halter",
+              "label": "Halter: 9-9-9"
+            },
+            {
+              "id": "cember",
+              "label": "Çember: 25-25-25"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 12-12-12"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 40sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 11-11-11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 18,
+      "dateRange": "03 - 9 Ağustos",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "bilek",
+              "label": "Bilek: 12-12-12"
+            },
+            {
+              "id": "halter",
+              "label": "Halter: 9-9-9"
+            },
+            {
+              "id": "cember",
+              "label": "Çember: 26-26-26"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 12-12-12"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 41sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 11-11-11"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "bilek",
+              "label": "Bilek: 12-12-12"
+            },
+            {
+              "id": "halter",
+              "label": "Halter: 9-9-9"
+            },
+            {
+              "id": "cember",
+              "label": "Çember: 27-27-27"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 19,
+      "dateRange": "10 - 16 Ağustos",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 12-12-12"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 42sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 11-11-11"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "bilek",
+              "label": "Bilek: 12-12-12"
+            },
+            {
+              "id": "halter",
+              "label": "Halter: 9-9-9"
+            },
+            {
+              "id": "cember",
+              "label": "Çember: 28-28-28"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 12-12-12"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 43sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 11-11-11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 20,
+      "dateRange": "17 - 23 Ağustos",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "bilek",
+              "label": "Bilek: 12-12-12"
+            },
+            {
+              "id": "halter",
+              "label": "Halter: 9-9-9"
+            },
+            {
+              "id": "cember",
+              "label": "Çember: 29-29-29"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 12-12-12"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 44sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 11-11-11"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "bilek",
+              "label": "Bilek: 12-12-12"
+            },
+            {
+              "id": "halter",
+              "label": "Halter: 9-9-9"
+            },
+            {
+              "id": "cember",
+              "label": "Çember: 30-30-30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 21,
+      "dateRange": "24 - 30 Ağustos",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 12-12-12"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 45sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 11-11-11"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "bilek",
+              "label": "Bilek: 12-12-12"
+            },
+            {
+              "id": "halter",
+              "label": "Halter: 9-9-9"
+            },
+            {
+              "id": "cember",
+              "label": "Çember: 31-31-31"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 12-12-12"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 46sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 11-11-11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 22,
+      "dateRange": "31 Ağustos -  06 Eylül",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "bilek",
+              "label": "Bilek: 12-12-12"
+            },
+            {
+              "id": "halter",
+              "label": "Halter: 9-9-9"
+            },
+            {
+              "id": "cember",
+              "label": "Çember: 32-32-32"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 12-12-12"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 47sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 11-11-11"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "bilek",
+              "label": "Bilek: 12-12-12"
+            },
+            {
+              "id": "halter",
+              "label": "Halter: 9-9-9"
+            },
+            {
+              "id": "cember",
+              "label": "Çember: 33-33-33"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 23,
+      "dateRange": "07-13 Eylül",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 12-12-12"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 48sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 11-11-11"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "bilek",
+              "label": "Bilek: 12-12-12"
+            },
+            {
+              "id": "halter",
+              "label": "Halter: 9-9-9"
+            },
+            {
+              "id": "cember",
+              "label": "Çember: 34-34-34"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 12-12-12"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 49sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 11-11-11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 24,
+      "dateRange": "14-20 Eylül",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "bilek",
+              "label": "Bilek: 13-13-13"
+            },
+            {
+              "id": "halter",
+              "label": "Halter: 9-9-9"
+            },
+            {
+              "id": "cember",
+              "label": "Çember: 35-35-35"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 13-13-13"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 50sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 12-12-12"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "bilek",
+              "label": "Bilek: 13-13-13"
+            },
+            {
+              "id": "halter",
+              "label": "Halter: 9-9-9"
+            },
+            {
+              "id": "cember",
+              "label": "Çember: 36-36-36"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 25,
+      "dateRange": "21-27 Eylül",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 13-13-13"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 51sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 12-12-12"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "bilek",
+              "label": "Bilek: 13-13-13"
+            },
+            {
+              "id": "halter",
+              "label": "Halter: 9-9-9"
+            },
+            {
+              "id": "cember",
+              "label": "Çember: 37-37-37"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 13-13-13"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 52sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 12-12-12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 26,
+      "dateRange": "28 Eylül -  04 Ekim",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "bilek",
+              "label": "Bilek: 13-13-13"
+            },
+            {
+              "id": "halter",
+              "label": "Halter: 10-10-10"
+            },
+            {
+              "id": "cember",
+              "label": "Çember: 38-38-38"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 13-13-13"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 53sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 12-12-12"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "bilek",
+              "label": "Bilek: 13-13-13"
+            },
+            {
+              "id": "halter",
+              "label": "Halter: 10-10-10"
+            },
+            {
+              "id": "cember",
+              "label": "Çember: 39-39-39"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 27,
+      "dateRange": "05 - 11 Ekim",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 13-13-13"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 54sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 12-12-12"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "bilek",
+              "label": "Bilek: 13-13-13"
+            },
+            {
+              "id": "halter",
+              "label": "Halter: 10-10-10"
+            },
+            {
+              "id": "cember",
+              "label": "Çember: 40-40-40"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 13-13-13"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 55sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 12-12-12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 28,
+      "dateRange": "12 - 18 Ekim",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "bilek",
+              "label": "Bilek: 14-14-14"
+            },
+            {
+              "id": "halter",
+              "label": "Halter: 10-10-10"
+            },
+            {
+              "id": "cember",
+              "label": "Çember: 41-41-41"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 13-13-13"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 56sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 13-13-13"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "bilek",
+              "label": "Bilek: 14-14-14"
+            },
+            {
+              "id": "halter",
+              "label": "Halter: 10-10-10"
+            },
+            {
+              "id": "cember",
+              "label": "Çember: 42-42-42"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 29,
+      "dateRange": "19 - 25 Ekim",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 13-13-13"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 57sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 13-13-13"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "bilek",
+              "label": "Bilek: 14-14-14"
+            },
+            {
+              "id": "halter",
+              "label": "Halter: 10-10-10"
+            },
+            {
+              "id": "cember",
+              "label": "Çember: 43-43-43"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 13-13-13"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 58sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 13-13-13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 30,
+      "dateRange": "Ekim -  01 Kasım",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "bilek",
+              "label": "Bilek: 14-14-14"
+            },
+            {
+              "id": "halter",
+              "label": "Halter: 11-11-11"
+            },
+            {
+              "id": "cember",
+              "label": "Çember: 44-44-44"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 14-14-14"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 59sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 13-13-13"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "bilek",
+              "label": "Bilek: 14-14-14"
+            },
+            {
+              "id": "halter",
+              "label": "Halter: 11-11-11"
+            },
+            {
+              "id": "cember",
+              "label": "Çember: 45-45-45"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 31,
+      "dateRange": "02 - 08 Kasım",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 14-14-14"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 60sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 13-13-13"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "bilek",
+              "label": "Bilek: 14-14-14"
+            },
+            {
+              "id": "halter",
+              "label": "Halter: 11-11-11"
+            },
+            {
+              "id": "cember",
+              "label": "Çember: 46-46-46"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 14-14-14"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 61sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 13-13-13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 32,
+      "dateRange": "09 - 15 Kasım",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "bilek",
+              "label": "Bilek: 15-15-15"
+            },
+            {
+              "id": "halter",
+              "label": "Halter: 11-11-11"
+            },
+            {
+              "id": "cember",
+              "label": "Çember: 47-47-47"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 14-14-14"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 62sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 14-14-14"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "bilek",
+              "label": "Bilek: 15-15-15"
+            },
+            {
+              "id": "halter",
+              "label": "Halter: 11-11-11"
+            },
+            {
+              "id": "cember",
+              "label": "Çember: 48-48-48"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 33,
+      "dateRange": "16 - 22 Kasım",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 14-14-14"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 63sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 14-14-14"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "bilek",
+              "label": "Bilek: 15-15-15"
+            },
+            {
+              "id": "halter",
+              "label": "Halter: 11-11-11"
+            },
+            {
+              "id": "cember",
+              "label": "Çember: 49-49-49"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 14-14-14"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 64sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 14-14-14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 34,
+      "dateRange": "23 - 29 Kasım",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "bilek",
+              "label": "Bilek: 16-16-16"
+            },
+            {
+              "id": "halter",
+              "label": "Halter: 11-11-11"
+            },
+            {
+              "id": "cember",
+              "label": "Çember: 50-50-50"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 14-14-14"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 65sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 14-14-14"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "bilek",
+              "label": "Bilek: 16-16-16"
+            },
+            {
+              "id": "halter",
+              "label": "Halter: 11-11-11"
+            },
+            {
+              "id": "cember",
+              "label": "Çember: 50-50-50"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 35,
+      "dateRange": "30 Kasım - 06 Aralık",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 14-14-14"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 66sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 14-14-14"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "bilek",
+              "label": "Bilek: 16-16-16"
+            },
+            {
+              "id": "halter",
+              "label": "Halter: 11-11-11"
+            },
+            {
+              "id": "cember",
+              "label": "Çember: 50-50-50"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 14-14-14"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 67sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 14-14-14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 36,
+      "dateRange": "07 - 13 Aralık",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "bilek",
+              "label": "Bilek: 17-17-17"
+            },
+            {
+              "id": "halter",
+              "label": "Halter: 11-11-11"
+            },
+            {
+              "id": "cember",
+              "label": "Çember: 50-50-50"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 14-14-14"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 68sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 14-14-14"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "bilek",
+              "label": "Bilek: 17-17-17"
+            },
+            {
+              "id": "halter",
+              "label": "Halter: 11-11-11"
+            },
+            {
+              "id": "cember",
+              "label": "Çember: 50-50-50"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 37,
+      "dateRange": "14 - 20 Aralık",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 14-14-14"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 69sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 14-14-14"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "bilek",
+              "label": "Bilek: 17-17-17"
+            },
+            {
+              "id": "halter",
+              "label": "Halter: 11-11-11"
+            },
+            {
+              "id": "cember",
+              "label": "Çember: 50-50-50"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 14-14-14"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 70sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 14-14-14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 38,
+      "dateRange": "21 - 27 Aralık",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "bilek",
+              "label": "Bilek: 18-18-18"
+            },
+            {
+              "id": "halter",
+              "label": "Halter: 12-12-12"
+            },
+            {
+              "id": "cember",
+              "label": "Çember: 50-50-50"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 15-15-15"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 70sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 15-15-15"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "bilek",
+              "label": "Bilek: 18-18-18"
+            },
+            {
+              "id": "halter",
+              "label": "Halter: 12-12-12"
+            },
+            {
+              "id": "cember",
+              "label": "Çember: 50-50-50"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 39,
+      "dateRange": "28 - 31 Aralık",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 15-15-15"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 70sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 15-15-15"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "bilek",
+              "label": "Bilek: 18-18-18"
+            },
+            {
+              "id": "halter",
+              "label": "Halter: 12-12-12"
+            },
+            {
+              "id": "cember",
+              "label": "Çember: 50-50-50"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "sinav",
+              "label": "Şınav: 15-15-15"
+            },
+            {
+              "id": "plank",
+              "label": "Plank: 70sn"
+            },
+            {
+              "id": "squat",
+              "label": "Squat: 15-15-15"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "egitim": [
+    {
+      "weekNum": 1,
+      "dateRange": "06-12 Nisan",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 2,
+      "dateRange": "13-19 Nisan",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 3,
+      "dateRange": "20-26 Nisan",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 4,
+      "dateRange": "27 Nisan - 3 Mayıs",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 5,
+      "dateRange": "04-10 Mayıs",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 6,
+      "dateRange": "11-17 Mayıs",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 7,
+      "dateRange": "18-24 Mayıs",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 8,
+      "dateRange": "-31 Mayıs",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 9,
+      "dateRange": "01-07 Haziran",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 10,
+      "dateRange": "08-14 Haziran",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 11,
+      "dateRange": "15-21 Haziran",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 12,
+      "dateRange": "22-28 Haziran",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 13,
+      "dateRange": "29  Haziran - 05 - Temmuz",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 14,
+      "dateRange": "06-12 Temmuz",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 15,
+      "dateRange": "13-19 Temmuz",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 16,
+      "dateRange": "20-26 Temmuz",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 17,
+      "dateRange": "27 Temmuz -  2 Ağustos",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 18,
+      "dateRange": "03 - 9 Ağustos",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 19,
+      "dateRange": "10 - 16 Ağustos",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 20,
+      "dateRange": "17 - 23 Ağustos",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 21,
+      "dateRange": "24 - 30 Ağustos",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 22,
+      "dateRange": "31 Ağustos -  06 Eylül",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 23,
+      "dateRange": "07-13 Eylül",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 24,
+      "dateRange": "14-20 Eylül",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 25,
+      "dateRange": "21-27 Eylül",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 26,
+      "dateRange": "28 Eylül -  04 Ekim",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 27,
+      "dateRange": "05 - 11 Ekim",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 28,
+      "dateRange": "12 - 18 Ekim",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 29,
+      "dateRange": "19 - 25 Ekim",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 30,
+      "dateRange": "Ekim -  01 Kasım",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 31,
+      "dateRange": "02 - 08 Kasım",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 32,
+      "dateRange": "09 - 15 Kasım",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 33,
+      "dateRange": "16 - 22 Kasım",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 34,
+      "dateRange": "23 - 29 Kasım",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 35,
+      "dateRange": "30 Kasım - 06 Aralık",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 36,
+      "dateRange": "07 - 13 Aralık",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 37,
+      "dateRange": "14 - 20 Aralık",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 38,
+      "dateRange": "21 - 27 Aralık",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 39,
+      "dateRange": "28 - 31 Aralık",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "egitim",
+              "label": "Eğitim: 140 DK"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "arac": [
+    {
+      "weekNum": 1,
+      "dateRange": "06-12 Nisan",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 2,
+      "dateRange": "13-19 Nisan",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 3,
+      "dateRange": "20-26 Nisan",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 4,
+      "dateRange": "27 Nisan - 3 Mayıs",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 5,
+      "dateRange": "04-10 Mayıs",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 6,
+      "dateRange": "11-17 Mayıs",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 7,
+      "dateRange": "18-24 Mayıs",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 8,
+      "dateRange": "-31 Mayıs",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 9,
+      "dateRange": "01-07 Haziran",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 10,
+      "dateRange": "08-14 Haziran",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 11,
+      "dateRange": "15-21 Haziran",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 12,
+      "dateRange": "22-28 Haziran",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 13,
+      "dateRange": "29  Haziran - 05 - Temmuz",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 14,
+      "dateRange": "06-12 Temmuz",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 15,
+      "dateRange": "13-19 Temmuz",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 16,
+      "dateRange": "20-26 Temmuz",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 17,
+      "dateRange": "27 Temmuz -  2 Ağustos",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 18,
+      "dateRange": "03 - 9 Ağustos",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 19,
+      "dateRange": "10 - 16 Ağustos",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 20,
+      "dateRange": "17 - 23 Ağustos",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 21,
+      "dateRange": "24 - 30 Ağustos",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 22,
+      "dateRange": "31 Ağustos -  06 Eylül",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 23,
+      "dateRange": "07-13 Eylül",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 24,
+      "dateRange": "14-20 Eylül",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 25,
+      "dateRange": "21-27 Eylül",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 26,
+      "dateRange": "28 Eylül -  04 Ekim",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 27,
+      "dateRange": "05 - 11 Ekim",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 28,
+      "dateRange": "12 - 18 Ekim",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 29,
+      "dateRange": "19 - 25 Ekim",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 30,
+      "dateRange": "Ekim -  01 Kasım",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 31,
+      "dateRange": "02 - 08 Kasım",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 32,
+      "dateRange": "09 - 15 Kasım",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 33,
+      "dateRange": "16 - 22 Kasım",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 34,
+      "dateRange": "23 - 29 Kasım",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 35,
+      "dateRange": "30 Kasım - 06 Aralık",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 36,
+      "dateRange": "07 - 13 Aralık",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 37,
+      "dateRange": "14 - 20 Aralık",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 38,
+      "dateRange": "21 - 27 Aralık",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 39,
+      "dateRange": "28 - 31 Aralık",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "trafik",
+              "label": "1 Saat Trafik Sürüş"
+            },
+            {
+              "id": "lpark",
+              "label": "10 Dk L Park"
+            },
+            {
+              "id": "paralel",
+              "label": "5 DK Paralel Park"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "is": [
+    {
+      "weekNum": 1,
+      "dateRange": "06-12 Nisan",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 2,
+      "dateRange": "13-19 Nisan",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 3,
+      "dateRange": "20-26 Nisan",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 4,
+      "dateRange": "27 Nisan - 3 Mayıs",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 5,
+      "dateRange": "04-10 Mayıs",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 6,
+      "dateRange": "11-17 Mayıs",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 7,
+      "dateRange": "18-24 Mayıs",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 8,
+      "dateRange": "-31 Mayıs",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 9,
+      "dateRange": "01-07 Haziran",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 10,
+      "dateRange": "08-14 Haziran",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 11,
+      "dateRange": "15-21 Haziran",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 12,
+      "dateRange": "22-28 Haziran",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 13,
+      "dateRange": "29  Haziran - 05 - Temmuz",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 14,
+      "dateRange": "06-12 Temmuz",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 15,
+      "dateRange": "13-19 Temmuz",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 16,
+      "dateRange": "20-26 Temmuz",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 17,
+      "dateRange": "27 Temmuz -  2 Ağustos",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 18,
+      "dateRange": "03 - 9 Ağustos",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 19,
+      "dateRange": "10 - 16 Ağustos",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 20,
+      "dateRange": "17 - 23 Ağustos",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 21,
+      "dateRange": "24 - 30 Ağustos",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 22,
+      "dateRange": "31 Ağustos -  06 Eylül",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 23,
+      "dateRange": "07-13 Eylül",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 24,
+      "dateRange": "14-20 Eylül",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 25,
+      "dateRange": "21-27 Eylül",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 26,
+      "dateRange": "28 Eylül -  04 Ekim",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 27,
+      "dateRange": "05 - 11 Ekim",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 28,
+      "dateRange": "12 - 18 Ekim",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 29,
+      "dateRange": "19 - 25 Ekim",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 30,
+      "dateRange": "Ekim -  01 Kasım",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 31,
+      "dateRange": "02 - 08 Kasım",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 32,
+      "dateRange": "09 - 15 Kasım",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 33,
+      "dateRange": "16 - 22 Kasım",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 34,
+      "dateRange": "23 - 29 Kasım",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 35,
+      "dateRange": "30 Kasım - 06 Aralık",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 36,
+      "dateRange": "07 - 13 Aralık",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 37,
+      "dateRange": "14 - 20 Aralık",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 38,
+      "dateRange": "21 - 27 Aralık",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 39,
+      "dateRange": "28 - 31 Aralık",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "is",
+              "label": "1 Saat İş Arama"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "duolingo": [
+    {
+      "weekNum": 1,
+      "dateRange": "06-12 Nisan",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 227"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 229"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 231"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 2,
+      "dateRange": "13-19 Nisan",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 233"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 235"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 237"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 3,
+      "dateRange": "20-26 Nisan",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 239"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 241"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 243"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 4,
+      "dateRange": "27 Nisan - 3 Mayıs",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 245"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 247"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 249"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 5,
+      "dateRange": "04-10 Mayıs",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 251"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 253"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 255"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 6,
+      "dateRange": "11-17 Mayıs",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 02"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 04"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 06"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 7,
+      "dateRange": "18-24 Mayıs",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 08"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 10"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 8,
+      "dateRange": "-31 Mayıs",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 12"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 14"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 9,
+      "dateRange": "01-07 Haziran",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 18"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 20"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 10,
+      "dateRange": "08-14 Haziran",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 24"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 26"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 28"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 11,
+      "dateRange": "15-21 Haziran",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 30"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 32"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 34"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 12,
+      "dateRange": "22-28 Haziran",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 36"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 38"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 40"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 13,
+      "dateRange": "29  Haziran - 05 - Temmuz",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 42"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 44"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 46"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 14,
+      "dateRange": "06-12 Temmuz",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 48"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 50"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 52"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 15,
+      "dateRange": "13-19 Temmuz",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 54"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 56"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 58"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 16,
+      "dateRange": "20-26 Temmuz",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 60"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 62"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 64"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 17,
+      "dateRange": "27 Temmuz -  2 Ağustos",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 66"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 66"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 68"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 18,
+      "dateRange": "03 - 9 Ağustos",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 70"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 72"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 74"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 19,
+      "dateRange": "10 - 16 Ağustos",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 74"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 76"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite78"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 20,
+      "dateRange": "17 - 23 Ağustos",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 80"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 82"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 84"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 21,
+      "dateRange": "24 - 30 Ağustos",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 86"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 86"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 88"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 22,
+      "dateRange": "31 Ağustos -  06 Eylül",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 90"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 92"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 94"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 23,
+      "dateRange": "07-13 Eylül",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 96"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 98"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 100"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 24,
+      "dateRange": "14-20 Eylül",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 102"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 104"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 106"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 25,
+      "dateRange": "21-27 Eylül",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 108"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 110"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 112"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 26,
+      "dateRange": "28 Eylül -  04 Ekim",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 114"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 116"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 118"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 27,
+      "dateRange": "05 - 11 Ekim",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 120"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 122"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 124"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 28,
+      "dateRange": "12 - 18 Ekim",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 126"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 128"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 130"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 29,
+      "dateRange": "19 - 25 Ekim",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 132"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 134"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 136"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 30,
+      "dateRange": "Ekim -  01 Kasım",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 138"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 140"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 140"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 31,
+      "dateRange": "02 - 08 Kasım",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 142"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 144"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 146"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 32,
+      "dateRange": "09 - 15 Kasım",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 148"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 150"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 152"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 33,
+      "dateRange": "16 - 22 Kasım",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 154"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 156"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 158"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 34,
+      "dateRange": "23 - 29 Kasım",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 160"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 162"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 164"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 35,
+      "dateRange": "30 Kasım - 06 Aralık",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 166"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 168"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 170"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 36,
+      "dateRange": "07 - 13 Aralık",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 172"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 174"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 176"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 37,
+      "dateRange": "14 - 20 Aralık",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 180"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 182"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 184"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 38,
+      "dateRange": "21 - 27 Aralık",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 186"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 188"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 190"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 39,
+      "dateRange": "28 - 31 Aralık",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 192"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 194"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "duo",
+              "label": "Ünite 196"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "yuruyus": [
+    {
+      "weekNum": 1,
+      "dateRange": "06-12 Nisan",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 2,
+      "dateRange": "13-19 Nisan",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 3,
+      "dateRange": "20-26 Nisan",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 4,
+      "dateRange": "27 Nisan - 3 Mayıs",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 5,
+      "dateRange": "04-10 Mayıs",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 6,
+      "dateRange": "11-17 Mayıs",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 7,
+      "dateRange": "18-24 Mayıs",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 8,
+      "dateRange": "-31 Mayıs",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 9,
+      "dateRange": "01-07 Haziran",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 10,
+      "dateRange": "08-14 Haziran",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 11,
+      "dateRange": "15-21 Haziran",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 12,
+      "dateRange": "22-28 Haziran",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 13,
+      "dateRange": "29  Haziran - 05 - Temmuz",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 14,
+      "dateRange": "06-12 Temmuz",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 15,
+      "dateRange": "13-19 Temmuz",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 16,
+      "dateRange": "20-26 Temmuz",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 17,
+      "dateRange": "27 Temmuz -  2 Ağustos",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 18,
+      "dateRange": "03 - 9 Ağustos",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 19,
+      "dateRange": "10 - 16 Ağustos",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 20,
+      "dateRange": "17 - 23 Ağustos",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 21,
+      "dateRange": "24 - 30 Ağustos",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 22,
+      "dateRange": "31 Ağustos -  06 Eylül",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 23,
+      "dateRange": "07-13 Eylül",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 24,
+      "dateRange": "14-20 Eylül",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 25,
+      "dateRange": "21-27 Eylül",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 26,
+      "dateRange": "28 Eylül -  04 Ekim",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 27,
+      "dateRange": "05 - 11 Ekim",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 28,
+      "dateRange": "12 - 18 Ekim",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 29,
+      "dateRange": "19 - 25 Ekim",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 30,
+      "dateRange": "Ekim -  01 Kasım",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 31,
+      "dateRange": "02 - 08 Kasım",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 32,
+      "dateRange": "09 - 15 Kasım",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 33,
+      "dateRange": "16 - 22 Kasım",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 34,
+      "dateRange": "23 - 29 Kasım",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 35,
+      "dateRange": "30 Kasım - 06 Aralık",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 36,
+      "dateRange": "07 - 13 Aralık",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 37,
+      "dateRange": "14 - 20 Aralık",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 38,
+      "dateRange": "21 - 27 Aralık",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNum": 39,
+      "dateRange": "28 - 31 Aralık",
+      "sessions": [
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        },
+        {
+          "tasks": [
+            {
+              "id": "yuruyus",
+              "label": "14000 Adım"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
