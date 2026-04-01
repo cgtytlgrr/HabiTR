@@ -36,7 +36,7 @@ export default function LoginScreen() {
   return (
     <div className="login-screen">
       <div className="login-logo-wrap">
-        <img src="/icons/logo.png" alt="HabiTR" className="login-logo" />
+        <img src={`${import.meta.env.BASE_URL}icons/logo.png`} alt="HabiTR" className="login-logo" />
       </div>
 
       <div className="login-card">

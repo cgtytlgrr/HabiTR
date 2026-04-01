@@ -1,11 +1,13 @@
 import { useApp } from '../../hooks/useApp';
 import type { ScreenName } from '../../types';
 
+const BASE = import.meta.env.BASE_URL;
+
 const TABS: { id: ScreenName; label: string; icon: string }[] = [
-  { id: 'home',       label: 'Ana Ekran',    icon: '/icons/tab-home.png' },
-  { id: 'hedefler',  label: 'Hedefler',     icon: '/icons/tab-hedefler.png' },
-  { id: 'rozetler',  label: 'Rozetler',     icon: '/icons/tab-rozetler.png' },
-  { id: 'istatistik', label: 'İstatistik',  icon: '/icons/tab-istatistik.png' },
+  { id: 'home',        label: 'Ana Ekran',  icon: `${BASE}icons/tab-home.png` },
+  { id: 'hedefler',   label: 'Hedefler',   icon: `${BASE}icons/tab-hedefler.png` },
+  { id: 'rozetler',   label: 'Rozetler',   icon: `${BASE}icons/tab-rozetler.png` },
+  { id: 'istatistik', label: 'İstatistik', icon: `${BASE}icons/tab-istatistik.png` },
 ];
 
 export default function TabBar() {

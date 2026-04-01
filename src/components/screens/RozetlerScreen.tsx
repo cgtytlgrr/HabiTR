@@ -26,7 +26,7 @@ export default function RozetlerScreen() {
           >
             <div className="rozet-img-wrap">
               <img
-                src={`/assets/rozet_${String(rozet.month).padStart(2, '0')}.png`}
+                src={`${import.meta.env.BASE_URL}assets/rozet_${String(rozet.month).padStart(2, '0')}.png`}
                 alt={rozet.monthName}
                 className={`rozet-img ${rozet.earned ? '' : 'rozet-gray'}`}
               />

@@ -18,7 +18,7 @@ export default function HomeScreen() {
         transition={{ duration: 0.5 }}
       >
         <img
-          src="/assets/motivasyon.png"
+          src={`${import.meta.env.BASE_URL}assets/motivasyon.png`}
           alt="Motivasyon"
           className="motivasyon-img"
         />

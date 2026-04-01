@@ -63,7 +63,7 @@ function DersCard({ dersId, onSelect }: { dersId: DersId; onSelect: () => void }
       style={{ '--ders-color': ders.color } as React.CSSProperties}
     >
       <img
-        src={`/assets/${ders.character}`}
+        src={`${import.meta.env.BASE_URL}assets/${ders.character}`}
         alt={ders.name}
         className="ders-character"
       />
@@ -108,7 +108,7 @@ function DersDetail({ dersId, onBack }: { dersId: DersId; onBack: () => void }) 
       {/* Header */}
       <div className="detail-header" style={{ borderColor: ders.color }}>
         <button className="back-btn" onClick={onBack}>←</button>
-        <img src={`/assets/${ders.character}`} alt={ders.name} className="detail-char" />
+        <img src={`${import.meta.env.BASE_URL}assets/${ders.character}`} alt={ders.name} className="detail-char" />
         <div>
           <h2 className="detail-title" style={{ color: ders.color }}>{ders.name}</h2>
           <p className="detail-week">Hafta {weekNum} · {weekData.dateRange}</p>

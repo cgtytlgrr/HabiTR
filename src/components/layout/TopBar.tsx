@@ -14,7 +14,7 @@ export default function TopBar() {
       {/* Left: Profile photo */}
       <div className="top-left">
         <div className="profile-photo-wrap">
-          <img src="/assets/profil.png" alt="Profil" className="profile-photo" />
+          <img src={`${import.meta.env.BASE_URL}assets/profil.png`} alt="Profil" className="profile-photo" />
         </div>
       </div>
 
@@ -36,11 +36,11 @@ export default function TopBar() {
           {state.isDark ? '☀️' : '🌙'}
         </button>
         <div className="stat-icon">
-          <img src="/icons/streak.png" alt="Streak" className="icon-sm" />
+          <img src={`${import.meta.env.BASE_URL}icons/streak.png`} alt="Streak" className="icon-sm" />
           <span className="stat-num">{completedWeeks}</span>
         </div>
         <div className="stat-icon">
-          <img src="/icons/diamond.png" alt="Elmas" className="icon-sm" />
+          <img src={`${import.meta.env.BASE_URL}icons/diamond.png`} alt="Elmas" className="icon-sm" />
           <span className="stat-num">{user?.elmas ?? 0}</span>
         </div>
       </div>

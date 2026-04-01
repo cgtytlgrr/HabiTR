@@ -103,7 +103,7 @@ export default function IstatistikScreen() {
             onClick={() => setSelectedDers(selectedDers === d.id ? null : d.id)}
             style={{ '--ders-color': d.color } as React.CSSProperties}
           >
-            <img src={`/assets/${d.character}`} alt={d.name} className="ders-stat-char" />
+            <img src={`${import.meta.env.BASE_URL}assets/${d.character}`} alt={d.name} className="ders-stat-char" />
             <div className="ders-stat-info">
               <span className="ders-stat-name">{d.name}</span>
               <div className="ders-stat-bar-wrap">
