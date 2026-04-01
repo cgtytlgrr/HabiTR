@@ -75,7 +75,7 @@ export default function IstatistikScreen() {
               <XAxis dataKey="name" tick={{ fontSize: 11 }} />
               <YAxis domain={[0, 6]} tick={{ fontSize: 11 }} />
               <Tooltip
-                formatter={(val: number) => [`${val}/6 ders`, 'Tamamlanan']}
+                formatter={(val: number) => [`${val}/6 ders`, 'Tamamlanan'] as [string, string]}
                 contentStyle={{ borderRadius: 8, fontSize: 12 }}
               />
               <Bar dataKey="tamamlanan" radius={[4, 4, 0, 0]}>
