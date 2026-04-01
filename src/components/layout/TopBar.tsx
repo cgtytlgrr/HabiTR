@@ -36,11 +36,11 @@ export default function TopBar() {
           {state.isDark ? '☀️' : '🌙'}
         </button>
         <div className="stat-icon">
-          <img src={`${import.meta.env.BASE_URL}icons/streak.png`} alt="Streak" className="icon-sm" />
+          <span className="icon-emoji">🔥</span>
           <span className="stat-num">{completedWeeks}</span>
         </div>
         <div className="stat-icon">
-          <img src={`${import.meta.env.BASE_URL}icons/diamond.png`} alt="Elmas" className="icon-sm" />
+          <span className="icon-emoji">💎</span>
           <span className="stat-num">{user?.elmas ?? 0}</span>
         </div>
       </div>

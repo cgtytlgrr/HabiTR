@@ -5,10 +5,20 @@ export default function HomeScreen() {
   const { state } = useApp();
   const { user } = state;
 
+  // Show first name - take first part before @ or space
+  const displayName = user?.username
+    ? user.username.includes('@')
+      ? user.username.split('@')[0]
+      : user.username.split(' ')[0]
+    : 'Çağatay';
+
+  // Capitalize first letter
+  const firstName = displayName.charAt(0).toUpperCase() + displayName.slice(1);
+
   return (
     <div className="screen home-screen">
       <div className="home-welcome">
-        <p className="home-greeting">Merhaba, <strong>{user?.username}</strong> 👋</p>
+        <p className="home-greeting">Merhaba, <strong>{firstName}</strong> 👋</p>
       </div>
 
       <motion.div

@@ -122,13 +122,18 @@ input { font-family: inherit; }
 }
 .day-btn.day-today {
   background: var(--accent);
-  color: white;
+  color: white !important;
   border-color: var(--accent);
   transform: scale(1.1);
 }
 .day-btn.day-session {
   border-color: var(--accent2);
   color: var(--accent);
+}
+
+.icon-emoji {
+  font-size: 18px;
+  line-height: 1;
 }
 
 .top-right {
