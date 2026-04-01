@@ -25,6 +25,11 @@ function countTasksDone(dersId: DersId, progress: Record<string, boolean>): numb
   return total;
 }
 
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+function tooltipFormatter(val: any): [string, string] {
+  return [`${val}/6 ders`, 'Tamamlanan'];
+}
+
 export default function IstatistikScreen() {
   const { state } = useApp();
   const { gorevProgress, weeklyCompletions } = state;
@@ -50,7 +55,6 @@ export default function IstatistikScreen() {
     <div className="screen istatistik-screen">
       <h2 className="section-title">İstatistiklerim</h2>
 
-      {/* Summary */}
       <div className="stat-cards-row">
         <div className="stat-card-big">
           <span className="stat-big-num">{totalDone}</span>
@@ -66,7 +70,6 @@ export default function IstatistikScreen() {
         </div>
       </div>
 
-      {/* Weekly chart */}
       {chartData.length > 0 && (
         <div className="chart-section">
           <h3 className="chart-title">Haftalık Performans</h3>
@@ -75,7 +78,7 @@ export default function IstatistikScreen() {
               <XAxis dataKey="name" tick={{ fontSize: 11 }} />
               <YAxis domain={[0, 6]} tick={{ fontSize: 11 }} />
               <Tooltip
-                formatter={(val: number) => [`${val}/6 ders`, 'Tamamlanan'] as [string, string]}
+                formatter={tooltipFormatter}
                 contentStyle={{ borderRadius: 8, fontSize: 12 }}
               />
               <Bar dataKey="tamamlanan" radius={[4, 4, 0, 0]}>
@@ -91,7 +94,6 @@ export default function IstatistikScreen() {
         </div>
       )}
 
-      {/* Per-ders breakdown */}
       <h3 className="chart-title">Derslerim</h3>
       <div className="ders-stats-list">
         {dersStats.map(d => (
@@ -107,10 +109,7 @@ export default function IstatistikScreen() {
               <div className="ders-stat-bar-wrap">
                 <div
                   className="ders-stat-bar"
-                  style={{
-                    width: `${Math.min(100, (d.done / (39 * 9)) * 100)}%`,
-                    backgroundColor: d.color
-                  }}
+                  style={{ width: `${Math.min(100, (d.done / (39 * 9)) * 100)}%`, backgroundColor: d.color }}
                 />
               </div>
             </div>
@@ -119,7 +118,6 @@ export default function IstatistikScreen() {
         ))}
       </div>
 
-      {/* Ders detail chart */}
       {selectedDersInfo && (
         <div className="ders-detail-stats">
           <h4 style={{ color: selectedDersInfo.color }}>{selectedDersInfo.name} — Haftalık</h4>
@@ -133,7 +131,7 @@ export default function IstatistikScreen() {
       )}
 
       <div className="program-info">
-        <p>📅 Program: 6 Nisan – 31 Aralık 2025</p>
+        <p>📅 Program: 6 Nisan – 31 Aralık 2026</p>
         <p>Toplam 39 hafta · 6 ders</p>
       </div>
     </div>
@@ -141,10 +139,7 @@ export default function IstatistikScreen() {
 }
 
 function DersDetailStats({
-  dersId,
-  progress,
-  color,
-  currentWeek,
+  dersId, progress, color, currentWeek,
 }: {
   dersId: DersId;
   progress: Record<string, boolean>;
